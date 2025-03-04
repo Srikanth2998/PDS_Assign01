@@ -1,0 +1,15 @@
+This folder has everything for Question 2.
+
+It looks at:
+- Student math scores.
+- How parental education, lunch type, test prep, and gender affect math scores.
+
+There’s one Python script that does cleaning and analysis in one step: process_and_analyze.py.
+
+The results are saved in:
+- clean_data.csv (cleaned data)
+- plots folder (visualizations)
+- summary.txt (short text summary)
+
+To run the whole process:
+    python process_and_analyze.py

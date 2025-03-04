@@ -1,0 +1,7 @@
+Summary - Student Performance Data
+
+Total Rows: 1000
+
+Average Math Score: 66.09
+
+Plots are saved in plots folder.
