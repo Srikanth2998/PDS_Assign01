@@ -1,7 +1,10 @@
-Summary - Student Performance Data
+Summary - Frailty Data
 
-Total Rows: 1000
+Total Rows: 10
 
-Average Math Score: 66.09
+Average Grip Strength by Frailty:
+frailty
+N    27.666667
+Y    23.500000
 
-Plots are saved in plots folder.
+Plots are saved in analysis_output folder.

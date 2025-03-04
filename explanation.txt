@@ -1,15 +1,15 @@
-This folder has everything for Question 2.
+This folder has everything for Question 1.
 
 It looks at:
-- Student math scores.
-- How parental education, lunch type, test prep, and gender affect math scores.
+- How grip strength changes with age.
+- How grip strength is different between frail and non-frail people.
 
-There’s one Python script that does cleaning and analysis in one step: process_and_analyze.py.
+There’s one Python script that does cleaning and analysis in one step: clean_and_analyze.py.
 
 The results are saved in:
-- clean_data.csv (cleaned data)
-- plots folder (visualizations)
+- data_clean.csv (cleaned data)
+- analysis_output folder (plots)
 - summary.txt (short text summary)
 
 To run the whole process:
-    python process_and_analyze.py
+    python clean_and_analyze.py
