@@ -1,0 +1,13 @@
+This folder contains Assignment 1, which has two questions.
+
+Q1_Frailty - Analysis of how age and grip strength relate to frailty.
+Q2_StudentPerformance - Analysis of student math scores and factors like parental education, lunch type, and test prep.
+
+Each folder contains:
+- raw data (csv)
+- processed data (csv)
+- python scripts to clean and analyze the data
+- plots and a summary file with results
+- explanation.txt describing the steps taken
+
+All code is written in simple Python, and no special documentation files like README.md are used to keep it simple.
